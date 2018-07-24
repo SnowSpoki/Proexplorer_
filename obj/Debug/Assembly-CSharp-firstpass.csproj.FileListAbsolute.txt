@@ -1,0 +1,105 @@
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEditor.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.VR.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\Mono.Cecil.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\Unity.DataContract.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.xml
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEditor.xml
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Proiect Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.VR.xml
+D:\Proiect Unity\New Unity Project777\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\Proiect Unity\New Unity Project777\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Proiect Unity\New Unity Project777\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\New Unity Project777\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\New Unity Project777\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\New Unity Project777\Temp\bin\Debug\nunit.framework.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEditor.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.UI.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\New Unity Project777\Temp\bin\Debug\Unity.Cecil.dll
+D:\New Unity Project777\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\New Unity Project777\Temp\bin\Debug\ExCSS.Unity.dll
+D:\New Unity Project777\Temp\bin\Debug\Unity.DataContract.dll
+D:\New Unity Project777\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\New Unity Project777\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\New Unity Project777\Temp\bin\Debug\Unity.CecilTools.dll
+D:\New Unity Project777\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\New Unity Project777\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.xml
+D:\New Unity Project777\Temp\bin\Debug\UnityEditor.xml
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.UI.xml
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\New Unity Project777\Temp\bin\Debug\nunit.framework.xml
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\New Unity Project777\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\New Unity Project777\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\New Unity Project777\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\New Unity Project777\obj\Debug\Assembly-CSharp-firstpass.pdb
+F:\Unity\New Unity Project777\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\Unity\New Unity Project777\Temp\bin\Debug\nunit.framework.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEditor.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Purchasing.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\Unity.Cecil.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\ExCSS.Unity.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\Unity.DataContract.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEditor.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\nunit.framework.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\Unity\New Unity Project777\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\Unity\New Unity Project777\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\Unity\New Unity Project777\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\Unity\New Unity Project777\obj\Debug\Assembly-CSharp-firstpass.pdb
