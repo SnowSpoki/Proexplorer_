@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\QuiteOnClick.cs">
+    <Files>
+      <File FileName="Assets\QuiteOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\a matriale final\quest.cs" Line="36" Column="2" />
+      <File FileName="Assets\a matriale final\inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\a matriale final\quest2.cs" Line="1" Column="1" />
+      <File FileName="Assets\horse 1\ui.cs" Line="1" Column="1" />
+      <File FileName="Assets\NassacGamesShieldsPack\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActiveStateToggler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ApplicationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChangeColor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragMe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DropMe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LightingSwitcher.cs" Line="26" Column="37" />
+      <File FileName="Assets\Scripts\PanelManager.cs" Line="31" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\New Unity Project777\Assets\a matriale final\NewBehaviourScript.cs" line="87" column="34" />
+      <Breakpoint file="D:\New Unity Project777\Assets\a matriale final\NPC.cs" line="8" column="11" />
+      <Breakpoint file="D:\New Unity Project777\Assets\a matriale final\NPC.cs" line="11" column="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
