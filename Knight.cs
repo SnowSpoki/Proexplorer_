@@ -2,7 +2,7 @@ using Unity;
 using System.Collection;
 
 public class ActiveStateToggler : MonoBehaviour {
-   public string Woman 
+   public string Name 
    { get; set; }
 
    public decimal Weapon
